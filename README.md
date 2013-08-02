@@ -3,7 +3,7 @@ AngularJS Cookies
 
 Usage
 -----
-Include both firebase.js and angularFire.js in your application.
+Include cookies_service.js in your application `index.html`.
 
 ```html
 <script src="scripts/services/cookies_service.js"></script>
