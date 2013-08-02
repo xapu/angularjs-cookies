@@ -35,8 +35,3 @@ Cookies.removeItem(name[, path])
 Cookies.hasItem(name)
 Cookies.keys()
 ```
-
-Requirements
------
-
-Install [Node.js](http://nodejs.org/) and NPM (should come with)
