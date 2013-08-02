@@ -6,7 +6,7 @@ Usage
 Include cookies_service.js in your application `index.html`.
 
 ```html
-<script src="scripts/services/cookies_service.js"></script>
+<script src="scripts/services/cookiesModule.js"></script>
 ```
 
 Add the module `cookiesModule` as a dependency to your app module:
