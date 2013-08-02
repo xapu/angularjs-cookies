@@ -17,6 +17,19 @@ Add the module `cookiesModule` as a dependency to your app module:
 var myapp = angular.module('myApp', ['cookiesModule']);
 ```
 
+Sintax
+-----
+
+See `cookiesModule.js` for more usage examples
+
+```js
+Cookies.setItem(name, value[, end[, path[, domain[, secure]]]])
+Cookies.getItem(name)
+Cookies.removeItem(name[, path])
+Cookies.hasItem(name)
+Cookies.keys()
+```
+
 Requirements
 -----
 
