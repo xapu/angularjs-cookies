@@ -1,25 +1,21 @@
 AngularJS Cookies
 =================
 
-***
+Usage
+-----
+Include both firebase.js and angularFire.js in your application.
 
-## Usage
-
-### Requirements
-
-* **AngularJS v1.0.6+** is currently required.
-
-## Installation
-
-The repository comes with the modules pre-built and compressed into the `build/` directory.
-
-```javascript
-angular.module('myApp', ['cookiesModule']);
+```html
+<script src="scripts/services/cookies_service.js"></script>
 ```
 
-## Development
+Add the module `cookiesModule` as a dependency to your app module:
 
+```js
+var myapp = angular.module('myApp', ['cookiesModule']);
+```
 
-### Requirements
+Requirements
+-----
 
 Install [Node.js](http://nodejs.org/) and NPM (should come with)
