@@ -23,7 +23,7 @@ Inject Cookies factory in your controller
 app.controller('myController', function (Cookies) {
 ```
 
-Sintax
+Use it
 -----
 
 See `cookiesModule.js` for more usage examples
