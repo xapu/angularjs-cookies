@@ -1,7 +1,7 @@
 AngularJS Cookies
 =================
 
-A complete cookies reader/writer Angular Module with full unicode support
+A complete cookies reader/writer [AngularJS](http://angularjs.org/) Module with full unicode support, based on [A little framework](https://developer.mozilla.org/en-US/docs/Web/API/document.cookie) from Mozilla developer Network 
 
 Usage
 -----
