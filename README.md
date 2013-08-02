@@ -17,6 +17,12 @@ Add the module `cookiesModule` as a dependency to your app module:
 var myapp = angular.module('myApp', ['cookiesModule']);
 ```
 
+Inject Cookies factory in your controller
+
+```js
+app.controller('myController', function (Cookies) {
+```
+
 Sintax
 -----
 
