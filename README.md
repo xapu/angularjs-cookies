@@ -5,7 +5,7 @@ A complete cookies reader/writer Angular Module with full unicode support
 
 Usage
 -----
-Include cookiesModule.js in your application `index.html`.
+Include `cookiesModule.js` in your application `index.html`.
 
 ```html
 <script src="scripts/services/cookiesModule.js"></script>
